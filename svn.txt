@@ -32,7 +32,7 @@ How many branches can you have at any given time?
 
 8 Working copy
 What does your local copy of a repository look like with svn?
-
+shallow copy of the repository. 
 
 9 Status
 How do you check the status of the files you are presently working on?
