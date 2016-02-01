@@ -62,7 +62,7 @@ commit
 14 What were they thinking?!
 What was the design criteria for svn?
 
-
+Work like CVS, with additional features  and bug fixes
 
 15 Time machine
 How do we view the past of a project with svn?
