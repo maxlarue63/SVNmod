@@ -66,7 +66,7 @@ What was the design criteria for svn?
 
 15 Time machine
 How do we view the past of a project with svn?
-
+snv log
 
 16 Great Scott!
 If there was a mistake made in the past of a project, how should we go about
