@@ -11,7 +11,7 @@ How are commits handled in svn?
 
 3 Checking out svn
 How are check outs performed in svn?
-
+svn co
 
 4 Bring me my .svn!
 How do you create the local working environment with svn (the .svn directory)?
