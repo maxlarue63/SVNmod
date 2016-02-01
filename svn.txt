@@ -45,7 +45,7 @@ How long are branches in svn supposed to exist?
 11 Taping it together
 How do you merge branches?
 
-
+svn merge 
 12 We see a need!
 Why was svn created?
 
