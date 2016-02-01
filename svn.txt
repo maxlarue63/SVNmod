@@ -48,7 +48,7 @@ How do you merge branches?
 svn merge 
 12 We see a need!
 Why was svn created?
-
+Take place of CVS
 
 13 A day in the life of svn
 What is a typical svn workflow?
