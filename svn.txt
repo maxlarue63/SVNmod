@@ -15,7 +15,7 @@ svn co
 
 4 Bring me my .svn!
 How do you create the local working environment with svn (the .svn directory)?
-
+svn co
 
 5 Adding to the chaos
 How do you add files to the repository?
