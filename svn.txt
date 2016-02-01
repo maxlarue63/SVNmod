@@ -7,7 +7,7 @@ Svn is centralized, requiring shallow copies
 
 2 Commiting to svn
 How are commits handled in svn?
-
+svn commit
 
 3 Checking out svn
 How are check outs performed in svn?
@@ -22,9 +22,8 @@ How do you add files to the repository?
 svn add
 
 6 It’s like a tree
-How are branches handled in svn?
-
-
+How are branches handled in svn
+checked out individually
 
 7 or maybe a forest
 How many branches can you have at any given time?
