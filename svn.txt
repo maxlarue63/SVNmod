@@ -77,13 +77,14 @@ correcting that mistake in svn?
 If you have an existing project and want to start tracking it with svn, how
 do you copy your existing files to the repository the first time? Does this
 create the .svn directory in your local folder?
-
+svn import
+no
 
 18 Local SVN
 Can the client/server setup required with svn exist on the same computer?
-
+yes 
 
 19 For the admins
 Did SVN provide any difference in tools between how you do server side
 commands and client side commands?
-
+yes
