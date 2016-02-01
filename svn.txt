@@ -19,7 +19,7 @@ svn co
 
 5 Adding to the chaos
 How do you add files to the repository?
-
+svn add
 
 6 It’s like a tree
 How are branches handled in svn?
