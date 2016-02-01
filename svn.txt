@@ -2,7 +2,8 @@ Subversion
 Study Guide
 1 Git vs Svn
 What are the differences between git and svn?
-test 
+git is faster
+Svn is centralized, requiring shallow copies
 
 2 Commiting to svn
 How are commits handled in svn?
