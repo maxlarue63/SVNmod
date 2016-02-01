@@ -52,7 +52,12 @@ Why was svn created?
 
 13 A day in the life of svn
 What is a typical svn workflow?
-
+update
+change
+review
+fix 
+merge
+commit
 
 14 What were they thinking?!
 What was the design criteria for svn?
