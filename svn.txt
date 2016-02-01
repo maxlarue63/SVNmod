@@ -36,7 +36,7 @@ What does your local copy of a repository look like with svn?
 
 9 Status
 How do you check the status of the files you are presently working on?
-
+svn status 
 
 10 Life of a branch
 How long are branches in svn supposed to exist?
