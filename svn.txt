@@ -28,7 +28,7 @@ How are branches handled in svn?
 
 7 or maybe a forest
 How many branches can you have at any given time?
-
+1
 
 8 Working copy
 What does your local copy of a repository look like with svn?
